@@ -55,12 +55,6 @@ void printGraph (Graph *g, int n) {
     }
 }
 
-int findVertex (Graph *g, char namaVertex, int n) {
-    for (int i=0; i<n; i++) {
-        if (g->vertex[i] == namaVertex) return i;
-    }
-    return -1;
-}
 
 int main() {
     Graph g;
@@ -80,9 +74,7 @@ int main() {
     int W;
     for (int i=0; i<M; i++) {
         cin >> U >> V >> W;
-        int u = findVertex(&g, U, N);
-        int v = findVertex(&g, V, N);
-        addEdge(&g, u, v, W, N);
+        addEdge(&g, (U - 'A'), (V - 'A'), W, N);
     }
 
     printGraph(&g, N);
