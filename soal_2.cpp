@@ -1,6 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
+// Source - https://stackoverflow.com/q/69834663
+// Posted by mrkupidooo, modified by community. See post 'Timeline' for change history
+// Retrieved 2026-06-14, License - CC BY-SA 4.0
+// tapi ini semua aku anu anukan!!, aku mikir dulu!!, tapi referensi dari stackoverflow 
+
 typedef struct vertexnode vertexNode;
 struct vertexnode{
     char namaVertex;
