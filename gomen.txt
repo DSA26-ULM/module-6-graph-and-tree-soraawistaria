@@ -1,0 +1,16 @@
+wahai abang fauzan yang terhormat,
+untuk soal 1 memang saya tidak menggunakan AI karena bisa memahami lewat
+dokumentasi kode yang ada di internet, yaitu:
+https://www.w3schools.com/dsa/dsa_data_graphs_implementation.php 
+
+untuk soal 2, referensi dari 
+https://stackoverflow.com/q/69834663 
+
+nah untuk soal 3-5 saya mengaku menyerah dan lebih memilih belajar uas algo
+doakan uas algo aku dapet nilai diatas 90 bang
+aamiin
+
+terimakasih sudah menjadi asprak algo p2, dari praktikum ini saya belajar 
+penggunaan file header dan pointer yang rumit. 
+dan dari sini saya sadar bahwa potensi saya bukan di competitive programming
+lebih asik ui ux design sama game developer deh i guess
