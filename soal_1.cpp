@@ -1,6 +1,6 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
-#define SIZE 100
+#define SIZE 10
 #define NO_EDGE -1
 
 typedef struct {

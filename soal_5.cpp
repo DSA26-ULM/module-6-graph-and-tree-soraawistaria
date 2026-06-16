@@ -1,5 +1,6 @@
 #include "RedBlackTree.h"
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 void preorder (const RedBlackTree::Node* node, const RedBlackTree::Node* nil, vector<int>& hasil) {
